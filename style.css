@@ -1,0 +1,46 @@
+h1{
+    color:green;
+ font-family: sans-serif;
+}
+
+  p{
+    color:coral;
+  font-family:fantasy;
+  }
+
+  ul{
+    list-style-type:
+  }
+ul{
+    list-style-type:upper-roman
+}
+
+ ul{
+     list-style-image:
+  
+ }
+
+ ul{
+    list-style- image
+ }
+ ol{
+    list-style-type:upper-roman;
+ }
+ a{
+
+  text-decoration:none;
+  background-color: aquamarine;
+ }
+
+
+   a:hover{
+  background-color: aqua;
+ 
+ color:#ffffff;
+
+ a{
+  font-family: Helvetica;sans-serif;
+  text-decoration:none;
+  background-color: aquamarine;
+ padding: 5px;
+   }
